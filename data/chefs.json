@@ -207,7 +207,7 @@
             "recipe_1": {
                 "recipe_name": "Grill Chicken With Biryaani",
                 "recipe_image": "https://images.food52.com/gn_HamUVyBdae5uZfhAKUx5lj4g=/660x440/filters:format(webp)/d815e816-4664-472e-990b-d880be41499f--chicken-biryani-recipe.jpg",
-                "recipe_description": "Almost every restaurant in Bangladesh serves this dish, and more than 50,000 grilled chickens are sold every day throughout the country. There are different ways of grilling chicken and there are many variations of spices that are used",
+                "recipe_description": "Almost every restaurant in Bangladesh serves this dish, and more than 50,000 grilled chickens are sold every day throughout the country.",
                 "ingredients" : "Holud, Morich, Piyaj, Rosun Tel, Ilish, Chaaul",
                 "star_rating": 4.5
               },
